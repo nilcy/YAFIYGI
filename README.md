@@ -15,8 +15,8 @@ $ code . &
 ```
 
 # Java
->"Error occurred during initialization of VM" というエラーが出たときは コンソールを再起動すること
 ```
 $ sudo apt install openjdk-17-jdk
 $ java -version
 ```
+>"Error occurred during initialization of VM" というエラーが出たときは コンソールを再起動すること
